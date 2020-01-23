@@ -113,5 +113,7 @@ kubectl -n redis scale statefulset redis-cluster --replicas=6
 ### links
 
 [ref](https://medium.com/zero-to/setup-persistence-redis-cluster-in-kubertenes-7d5b7ffdbd98)
+
 [k8s redis](https://github.com/sanderploegsma/redis-cluster)
+
 [racher redis](https://rancher.com/blog/2019/deploying-redis-cluster/)
